@@ -8,9 +8,11 @@ def factorial(n):
         result *= i
     return result
 
+
 def main():
     number = 5
     print(f"The factorial of {number} is {factorial(number)}")
+
 
 if __name__ == "__main__":
     main()
