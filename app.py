@@ -10,7 +10,7 @@ def factorial(n):
 
 
 def main():
-    number = 5
+    number = 6
     print(f"The factorial of {number} is {factorial(number)}")
 
 
